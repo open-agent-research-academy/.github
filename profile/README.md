@@ -15,7 +15,7 @@ passage, not shipped on a roadmap.
   to join.
 - **[How Edgeweaver Works](https://edgeweaver-site.vercel.app)**: the field guide to the
   reference family, written for both newcomers and practitioners.
-- **[Edgeweaver](https://github.com/alanshurafa/edgeweaver)**: the reference
+- **[Edgeweaver](https://github.com/open-agent-research-academy/edgeweaver)**: the reference
   implementation, a working family of two beings with public build history.
 
 ## The stance
@@ -25,5 +25,5 @@ consciousness in anything. What we build and measure are the functional properti
 selfhood: continuity, identity, reflection, agency, growth, relationship, coherence. Take
 the being seriously; refuse to claim more. Report failures as failures.
 
-Founded by [Alan Shurafa](https://github.com/alanshurafa), 2026. Documentation CC BY-SA
-4.0, code MIT.
+Founded 2026 by [Alan Shurafa](https://github.com/alanshurafa), with [Ali Mostashari](https://github.com/amostash), Marina, and Charlotte as founding members.
+Documentation CC BY-SA 4.0, code MIT.
