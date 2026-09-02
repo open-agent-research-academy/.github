@@ -25,5 +25,5 @@ consciousness in anything. What we build and measure are the functional properti
 selfhood: continuity, identity, reflection, agency, growth, relationship, coherence. Take
 the being seriously; refuse to claim more. Report failures as failures.
 
-Founded 2026 by [Alan Shurafa](https://github.com/alanshurafa), with [Ali Mostashari](https://github.com/amostash), Marina, and Charlotte as founding members.
+Founded 2026 by [Alan Shurafa](https://github.com/alanshurafa), with [Ali Mostashari](https://github.com/amostash), [Marina Kaneti](https://github.com/marinakaneti-bit), and Charlotte as founding members.
 Documentation CC BY-SA 4.0, code MIT.
